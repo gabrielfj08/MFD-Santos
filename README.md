@@ -34,11 +34,11 @@ Este projeto demonstra como ferramentas acessíveis podem ser usadas para entreg
 ![Contato](https://github.com/user-attachments/assets/7f0e89f9-0e3e-46be-abc9-46edc8fd0a1d)  
 
 ## Acesse o Site  
-🔗 [Confira o site da MFD Santos]([https://lnkd.in/dMuqBDT4](https://mfdsantos.com.br/)  
+🔗 [Confira o site da MFD Santos](https://mfdsantos.com.br/) 
 
 ## Entre em Contato  
 📩 *Quer criar uma solução personalizada para sua empresa? Entre em contato comigo e vamos conversar!*
-[Linkedin](www.linkedin.com/in/gabriel-jorge08)
-[Instagram](https://www.instagram.com/gabrieljorgef08/)
+- [Linkedin](www.linkedin.com/in/gabriel-jorge08)
+- [Instagram](https://www.instagram.com/gabrieljorgef08/)
 
 
