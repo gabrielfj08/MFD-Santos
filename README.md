@@ -38,7 +38,7 @@ Este projeto demonstra como ferramentas acessíveis podem ser usadas para entreg
 
 ## Entre em Contato  
 📩 *Quer criar uma solução personalizada para sua empresa? Entre em contato comigo e vamos conversar!*
-- [Linkedin](www.linkedin.com/in/gabriel-jorge08)
+- [Linkedin](https://www.linkedin.com/in/gabriel-jorge08/)
 - [Instagram](https://www.instagram.com/gabrieljorgef08/)
 
 
